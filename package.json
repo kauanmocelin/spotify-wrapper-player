@@ -55,7 +55,7 @@
     "nyc": "^10.2.0",
     "prettier": "^2.0.5",
     "rimraf": "^2.6.1",
-    "webpack": "^2.6.1",
+    "webpack": "^5.75.0",
     "webpack-dev-server": "^2.4.5"
   },
   "dependencies": {
